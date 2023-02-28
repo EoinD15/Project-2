@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+
+body {
+    font-family:'Comfortaa', 'Open Sans','Roboto';
+    color:#3a3a3a;
+    font-weight: 300;
+    font-size: large;
+  }
+
+.logo {
+    max-width: 100px;
+    height: auto;
+    list-style: none;
+    align-items: center;
+  }
